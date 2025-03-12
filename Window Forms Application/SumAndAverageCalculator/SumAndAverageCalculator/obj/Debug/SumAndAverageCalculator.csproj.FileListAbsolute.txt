@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\Convert_Int__String.Form1.resources
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.Properties.Resources.resources
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.csproj.GenerateResource.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\bin\Debug\SumAndAverageCalculator.exe.config
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\bin\Debug\SumAndAverageCalculator.exe
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\bin\Debug\SumAndAverageCalculator.pdb
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.exe
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\SumAndAverageCalculator\SumAndAverageCalculator\obj\Debug\SumAndAverageCalculator.pdb

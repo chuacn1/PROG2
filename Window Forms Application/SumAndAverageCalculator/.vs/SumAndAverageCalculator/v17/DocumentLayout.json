@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|c:\\users\\chuacn1\\downloads\\prog2\\window forms application\\sumandaveragecalculator\\sumandaveragecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|solutionrelative:sumandaveragecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|c:\\users\\chuacn1\\downloads\\prog2\\window forms application\\sumandaveragecalculator\\sumandaveragecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|solutionrelative:sumandaveragecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|c:\\users\\chuacn1\\downloads\\prog2\\window forms application\\sumandaveragecalculator\\sumandaveragecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|solutionrelative:sumandaveragecalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|c:\\users\\chuacn1\\downloads\\prog2\\window forms application\\sumandaveragecalculator\\sumandaveragecalculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5590048-8456-446C-9C54-CABE7829266C}|SumAndAverageCalculator\\SumAndAverageCalculator.csproj|solutionrelative:sumandaveragecalculator\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "SumAndAverageCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.cs",
+              "RelativeToolTip": "SumAndAverageCalculator\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:06:35.429Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "SumAndAverageCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Program.cs",
+              "RelativeToolTip": "SumAndAverageCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:07:24.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SumAndAverageCalculator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.Designer.cs",
+              "RelativeToolTip": "SumAndAverageCalculator\\Form1.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:06:53.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "SumAndAverageCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Downloads\\PROG2\\Window Forms Application\\SumAndAverageCalculator\\SumAndAverageCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "SumAndAverageCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:06:31.08Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
