@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza Order Form.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza.Form1.resources
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza_Order_Form.Properties.Resources.resources
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza Order Form.csproj.GenerateResource.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza Order Form.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\bin\Debug\Pizza Order Form.exe.config
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\bin\Debug\Pizza Order Form.exe
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\bin\Debug\Pizza Order Form.pdb
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza Order Form.exe
+C:\Users\chuacn1\Downloads\PROG2\Window Forms Application\Pizza Order Form\Pizza Order Form\obj\Debug\Pizza Order Form.pdb
