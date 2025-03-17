@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\bin\Debug\Product Average Price Display.exe.config
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\bin\Debug\Product Average Price Display.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\bin\Debug\Product Average Price Display.pdb
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product Average Price Display.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product_Average_Price_Display.Form1.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product_Average_Price_Display.Properties.Resources.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product Average Price Display.csproj.GenerateResource.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product Average Price Display.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product Average Price Display.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\Product Average Price Display\Product Average Price Display\obj\Debug\Product Average Price Display.pdb

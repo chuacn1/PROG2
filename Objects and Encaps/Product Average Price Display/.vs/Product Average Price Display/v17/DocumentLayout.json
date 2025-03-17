@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\product average price display\\product average price display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|solutionrelative:product average price display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\product average price display\\product average price display\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|solutionrelative:product average price display\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\product average price display\\product average price display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EDF2839-7371-41C2-BC45-45AFCB005BBF}|Product Average Price Display\\Product Average Price Display.csproj|solutionrelative:product average price display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Product.cs",
+              "RelativeDocumentMoniker": "Product Average Price Display\\Product.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Product.cs",
+              "RelativeToolTip": "Product Average Price Display\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:15:35.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Form1.cs",
+              "RelativeDocumentMoniker": "Product Average Price Display\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Form1.cs",
+              "RelativeToolTip": "Product Average Price Display\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:16:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Form1.cs",
+              "RelativeDocumentMoniker": "Product Average Price Display\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\Product Average Price Display\\Product Average Price Display\\Form1.cs [Design]",
+              "RelativeToolTip": "Product Average Price Display\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:14:57.413Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
