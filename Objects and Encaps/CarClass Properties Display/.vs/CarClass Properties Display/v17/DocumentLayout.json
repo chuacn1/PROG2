@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\carclass properties display\\carclass properties display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|solutionrelative:carclass properties display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\carclass properties display\\carclass properties display\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|solutionrelative:carclass properties display\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|c:\\users\\chuacn1\\desktop\\prog2\\objects and encaps\\carclass properties display\\carclass properties display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1605BC0-9286-4C60-8BF9-446610479D1A}|CarClass Properties Display\\CarClass Properties Display.csproj|solutionrelative:carclass properties display\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Form1.cs",
+              "RelativeDocumentMoniker": "CarClass Properties Display\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Form1.cs",
+              "RelativeToolTip": "CarClass Properties Display\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:47:58.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Car.cs",
+              "RelativeDocumentMoniker": "CarClass Properties Display\\Car.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Car.cs",
+              "RelativeToolTip": "CarClass Properties Display\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:42:30.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Form1.cs",
+              "RelativeDocumentMoniker": "CarClass Properties Display\\Form1.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\Objects and Encaps\\CarClass Properties Display\\CarClass Properties Display\\Form1.cs [Design]",
+              "RelativeToolTip": "CarClass Properties Display\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T05:41:01.114Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

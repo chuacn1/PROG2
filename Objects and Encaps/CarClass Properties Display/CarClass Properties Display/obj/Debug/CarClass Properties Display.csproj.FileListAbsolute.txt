@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\bin\Debug\CarClass Properties Display.exe.config
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\bin\Debug\CarClass Properties Display.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\bin\Debug\CarClass Properties Display.pdb
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass Properties Display.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass_Properties_Display.Form1.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass_Properties_Display.Properties.Resources.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass Properties Display.csproj.GenerateResource.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass Properties Display.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass Properties Display.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\CarClass Properties Display\CarClass Properties Display\obj\Debug\CarClass Properties Display.pdb
