@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.Form1.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.Properties.Resources.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.csproj.GenerateResource.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\bin\Debug\EmployeeInfoDisplay.exe.config
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\bin\Debug\EmployeeInfoDisplay.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\bin\Debug\EmployeeInfoDisplay.pdb
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\EmployeeInfoDisplay\EmployeeInfoDisplay\obj\Debug\EmployeeInfoDisplay.pdb
