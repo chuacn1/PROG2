@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\WeekTemperatureStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7870CC0-84B4-4756-8361-8A895C7ED707}|WeekTemperatureStats\\WeekTemperatureStats.csproj|c:\\users\\chuacn1\\desktop\\prog2\\list and linq\\weektemperaturestats\\weektemperaturestats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7870CC0-84B4-4756-8361-8A895C7ED707}|WeekTemperatureStats\\WeekTemperatureStats.csproj|solutionrelative:weektemperaturestats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\WeekTemperatureStats\\WeekTemperatureStats\\Program.cs",
+              "RelativeDocumentMoniker": "WeekTemperatureStats\\Program.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\WeekTemperatureStats\\WeekTemperatureStats\\Program.cs",
+              "RelativeToolTip": "WeekTemperatureStats\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:45:33.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
