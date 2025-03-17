@@ -1,0 +1,15 @@
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\bin\Debug\net8.0\Combine and Modify Languages.exe
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\bin\Debug\net8.0\Combine and Modify Languages.deps.json
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\bin\Debug\net8.0\Combine and Modify Languages.runtimeconfig.json
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\bin\Debug\net8.0\Combine and Modify Languages.dll
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\bin\Debug\net8.0\Combine and Modify Languages.pdb
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.AssemblyInfoInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.AssemblyInfo.cs
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.sourcelink.json
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.dll
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\refint\Combine and Modify Languages.dll
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.pdb
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\Combine and Modify Languages.genruntimeconfig.cache
+C:\Users\chuacn1\Desktop\PROG2\List and Linq\Combine and Modify Languages\Combine and Modify Languages\obj\Debug\net8.0\ref\Combine and Modify Languages.dll
