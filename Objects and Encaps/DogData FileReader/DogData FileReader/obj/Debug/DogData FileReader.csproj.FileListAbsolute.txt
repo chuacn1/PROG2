@@ -1,0 +1,10 @@
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData FileReader.csproj.AssemblyReference.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData_FileReader.Form1.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData_FileReader.Properties.Resources.resources
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData FileReader.csproj.GenerateResource.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData FileReader.csproj.CoreCompileInputs.cache
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\bin\Debug\DogData FileReader.exe.config
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\bin\Debug\DogData FileReader.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\bin\Debug\DogData FileReader.pdb
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData FileReader.exe
+C:\Users\chuacn1\Desktop\PROG2\Objects and Encaps\DogData FileReader\DogData FileReader\obj\Debug\DogData FileReader.pdb

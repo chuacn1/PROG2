@@ -1,0 +1,5 @@
+Scooby-Doo,2
+Astro,5
+Bolt,10
+Augie,6
+Dixie,9
