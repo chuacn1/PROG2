@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\CityPopulation Analysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658A7844-4AE2-4DEF-BE24-C16349B3B186}|CityPopulation Analysis\\CityPopulation Analysis.csproj|c:\\users\\chuacn1\\desktop\\prog2\\list and linq\\citypopulation analysis\\citypopulation analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658A7844-4AE2-4DEF-BE24-C16349B3B186}|CityPopulation Analysis\\CityPopulation Analysis.csproj|solutionrelative:citypopulation analysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\CityPopulation Analysis\\CityPopulation Analysis\\Program.cs",
+              "RelativeDocumentMoniker": "CityPopulation Analysis\\Program.cs",
+              "ToolTip": "C:\\Users\\chuacn1\\Desktop\\PROG2\\List and Linq\\CityPopulation Analysis\\CityPopulation Analysis\\Program.cs",
+              "RelativeToolTip": "CityPopulation Analysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:50:32.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
